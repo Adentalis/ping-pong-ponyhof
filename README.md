@@ -1,6 +1,6 @@
-# 🏓 ping pong ponyhof
+# 🏓 Ping Pong Ponyhof
 
-At point this will be a tabletennis software for organizing tournaments. Based on the rules of the bavarian TT Race Tournament. See [here](https://www.bttv.de/) for more information.
+Dies ist der Quelcode der aktuellen PPP Software
 
 ## Getting Started
 
